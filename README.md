@@ -9,6 +9,7 @@ Articles
 --------
 
 * * *
+
 [Algorithmic Question Patterns](https://docs.google.com/document/d/13YLaOuusgqd1FmCo90AFyPB0VHMh-jnZb3T34l-HSb8/preview)
 [Future of Work from Home](https://docs.google.com/document/d/1JXmOCrmh8tJ1hFLLj7PXthNAe7fBHwb7pVXD3jJaXck/preview)  
 [How to be a better coding youtuber](https://docs.google.com/presentation/d/1Ix9CWNjum-qD0DMN5CZNrW4e3BlVEPSvwpIoltVz_1o/preview)  
