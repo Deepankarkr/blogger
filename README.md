@@ -20,14 +20,16 @@ Articles
 
 * * *
 
-### Kaggle [home](https://www.kaggle.com/deepankark)
+Kaggle
+--------
 
 * * *
 
-### Other Stuff
+Other Stuff
+--------
 
 * * *
 
 ### Links
 
-[Resume](https://drive.google.com/file/d/1DcfNb9VpdoDFMUKdYA6K87BINU6P5hr7/preview) | [Github](#)
+[Resume](https://drive.google.com/file/d/1DcfNb9VpdoDFMUKdYA6K87BINU6P5hr7/preview) | [Github](#) | [Kaggle](https://www.kaggle.com/deepankark)
