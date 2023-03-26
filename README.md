@@ -12,7 +12,7 @@ Articles
 
 [Algorithmic question patterns](https://docs.google.com/document/d/13YLaOuusgqd1FmCo90AFyPB0VHMh-jnZb3T34l-HSb8/preview)  
 [SOLID design principles](https://docs.google.com/document/d/1fMktsunrYx18MjrQy-hMZFa74wAKA8NNi5OSYqlf0IM/preview)  
-Design Pattern Golang |[Creational](https://docs.google.com/document/d/1zbN4rNZjzMGFlLclaDgdDseTHWIeh97fUMfJYeTT13s/preview)  
+Design Pattern Golang | [Creational](https://docs.google.com/document/d/1zbN4rNZjzMGFlLclaDgdDseTHWIeh97fUMfJYeTT13s/preview)  
 [Statistical anomaly detection using z-score and SQL](https://docs.google.com/document/d/1xQN3z0BRzSX507jl7w8pWXP9wBd4U3DZct7i3aIKwqI/preview)  
 [Agile estimation](https://docs.google.com/presentation/d/1uUMShOTto9yr_nyUeV4CE9UWTKl13S4XRW1OABNK7CQ/preview)  
 [Digital logic design](https://docs.google.com/presentation/d/1ZwwsS0DU9LRUseheIH65P_1v30Im5GxRkls6h00lgEA/preview)  
