@@ -34,6 +34,7 @@ Other Stuff
 [Future of work from home](https://docs.google.com/document/d/1JXmOCrmh8tJ1hFLLj7PXthNAe7fBHwb7pVXD3jJaXck/preview)  
 [How to be a better coding youtuber](https://docs.google.com/presentation/d/1Ix9CWNjum-qD0DMN5CZNrW4e3BlVEPSvwpIoltVz_1o/preview)  
 [Chakras:Explained very simply](https://docs.google.com/document/d/18ZHC6EUD5dXiiqNWzf8jL53ntBtLQFjENkcxGy-LaZE/preview)  
+[My Youtube playlist for you](https://youtube.com/playlist?list=PLoMmzSAOV974D36RWxfvAHQuPURGXlG2n)  
 
 * * *
 
