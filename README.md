@@ -5,7 +5,7 @@ Deepankar Kumar
 
 * * *
 
-Articles
+Technical
 --------
 
 * * *
