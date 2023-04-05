@@ -14,7 +14,7 @@ Technical
 [SOLID design principles](https://docs.google.com/document/d/1fMktsunrYx18MjrQy-hMZFa74wAKA8NNi5OSYqlf0IM/preview)  
 [Interface design in golang](https://docs.google.com/document/d/1gvCFQvvWN5f_7OuPq0HHlt_D_SFsxeJT0WmqReD_DiI/preview)  
 Design Pattern Golang | [Creational](https://docs.google.com/document/d/1zbN4rNZjzMGFlLclaDgdDseTHWIeh97fUMfJYeTT13s/preview)  
-[Statistical anomaly detection using z-score and SQL](https://docs.google.com/document/d/1xQN3z0BRzSX507jl7w8pWXP9wBd4U3DZct7i3aIKwqI/preview)  
+[Anomaly detection using z-score & SQL](https://docs.google.com/document/d/1xQN3z0BRzSX507jl7w8pWXP9wBd4U3DZct7i3aIKwqI/preview)  
 [Agile estimation](https://docs.google.com/presentation/d/1uUMShOTto9yr_nyUeV4CE9UWTKl13S4XRW1OABNK7CQ/preview)  
 [Digital logic design](https://docs.google.com/presentation/d/1ZwwsS0DU9LRUseheIH65P_1v30Im5GxRkls6h00lgEA/preview)  
 [Structured query language (SQL)](https://docs.google.com/presentation/d/1ga5s0U7sqeeNsZQGy486kSi6VoL3V26u3OTmw2JFQbE/preview)  
@@ -41,6 +41,11 @@ Other Stuff
 
 * * *
 
-### Links
+Links
+--------
+
+* * *
 
 [Resume](https://drive.google.com/file/d/1DcfNb9VpdoDFMUKdYA6K87BINU6P5hr7/preview) | [Github](https://github.com/Deepankarkr) | [Kaggle](https://www.kaggle.com/deepankark) | [LinkedIn](https://www.linkedin.com/in/d11/)
+
+* * *
