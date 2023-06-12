@@ -11,6 +11,7 @@ Technical
 * * *
 
 [Algorithmic question patterns](https://docs.google.com/document/d/13YLaOuusgqd1FmCo90AFyPB0VHMh-jnZb3T34l-HSb8/preview)  
+[Face-off with new code base](https://docs.google.com/document/d/1ju8tz4JlxAHpLf-IlRVaFhxtoXiJbsFsO2jMVQUnjVA/preview)  
 [SOLID design principles](https://docs.google.com/document/d/1fMktsunrYx18MjrQy-hMZFa74wAKA8NNi5OSYqlf0IM/preview)  
 [Interface design in golang](https://docs.google.com/document/d/1gvCFQvvWN5f_7OuPq0HHlt_D_SFsxeJT0WmqReD_DiI/preview)  
 Design Pattern Golang | [Creational](https://docs.google.com/document/d/1zbN4rNZjzMGFlLclaDgdDseTHWIeh97fUMfJYeTT13s/preview)  
