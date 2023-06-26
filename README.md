@@ -10,6 +10,7 @@ Technical
 
 * * *
 
+07/23 : [gRPC in Layman terms](https://docs.google.com/document/d/1KkYl7vUOQrOrWTftP_XwbkyQ-q52vL0XT-0qX44zzgg/preview)  
 06/23 : [SOLID design principles](https://docs.google.com/document/d/1fMktsunrYx18MjrQy-hMZFa74wAKA8NNi5OSYqlf0IM/preview)  
 05/23 : [Interface design in golang](https://docs.google.com/document/d/1gvCFQvvWN5f_7OuPq0HHlt_D_SFsxeJT0WmqReD_DiI/preview)  
 05/23 : Design Pattern Golang | [Creational](https://docs.google.com/document/d/1zbN4rNZjzMGFlLclaDgdDseTHWIeh97fUMfJYeTT13s/preview)  
