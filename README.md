@@ -39,7 +39,7 @@ Other Stuff
 04/23 : [Deschooling Society](https://docs.google.com/document/d/188j5cXWzHEonPgRfl-kBtLsMbbKYlpF05jraDlOkKrQ/preview)  
 04/23 : [Future of work from home](https://docs.google.com/document/d/1JXmOCrmh8tJ1hFLLj7PXthNAe7fBHwb7pVXD3jJaXck/preview)  
 10/22 : [How to be a better coding youtuber](https://docs.google.com/presentation/d/1Ix9CWNjum-qD0DMN5CZNrW4e3BlVEPSvwpIoltVz_1o/preview)  
-10/22 : [Chakras:Explained very simply](https://docs.google.com/document/d/18ZHC6EUD5dXiiqNWzf8jL53ntBtLQFjENkcxGy-LaZE/preview)  
+10/22 : [Chakras : Distilled](https://docs.google.com/document/d/18ZHC6EUD5dXiiqNWzf8jL53ntBtLQFjENkcxGy-LaZE/preview)  
 09/22 : [My Youtube playlist for you](https://youtube.com/playlist?list=PLoMmzSAOV974D36RWxfvAHQuPURGXlG2n)  
 
 
