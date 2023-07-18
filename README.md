@@ -9,6 +9,7 @@ Technical
 --------
 
 * * *
+July 2023 : [Things Data Engineer should know](https://docs.google.com/document/d/1KPkiLKLBKYAHQera1qgml8WkJ91VVkfK38JNMdkM-TM/preview) 
 July 2023 : [97 things programmer should know book](https://docs.google.com/document/d/1jiKDYl6_PaEVmet6rj2CRj8k5sY46cIc_9aSYn2b1Qc/preview)  
 July 2023 : [gRPC in Layman terms](https://docs.google.com/document/d/1KkYl7vUOQrOrWTftP_XwbkyQ-q52vL0XT-0qX44zzgg/preview)  
 June 2023 : [SOLID design principles](https://docs.google.com/document/d/1fMktsunrYx18MjrQy-hMZFa74wAKA8NNi5OSYqlf0IM/preview)  
