@@ -9,6 +9,7 @@ Technical
 --------
 
 * * *
+July 2023 : [Oracle to Snowflake migration](https://docs.google.com/document/d/1CrlBseoeRCluogBBRwCAyiAYxjPhGlb4Bq7n32eJzYU/preview)  
 July 2023 : [Things Data Engineer should know](https://docs.google.com/document/d/1KPkiLKLBKYAHQera1qgml8WkJ91VVkfK38JNMdkM-TM/preview)  
 July 2023 : [97 things programmer should know](https://docs.google.com/document/d/1jiKDYl6_PaEVmet6rj2CRj8k5sY46cIc_9aSYn2b1Qc/preview)  
 July 2023 : [gRPC in Layman terms](https://docs.google.com/document/d/1KkYl7vUOQrOrWTftP_XwbkyQ-q52vL0XT-0qX44zzgg/preview)  
