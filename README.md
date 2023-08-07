@@ -17,6 +17,7 @@ July 2023 : [gRPC in Layman terms](https://docs.google.com/document/d/1KkYl7vUOQ
 June 2023 : [SOLID design principles](https://docs.google.com/document/d/1fMktsunrYx18MjrQy-hMZFa74wAKA8NNi5OSYqlf0IM/preview)  
 May 2023  : [Interface design in golang](https://docs.google.com/document/d/1gvCFQvvWN5f_7OuPq0HHlt_D_SFsxeJT0WmqReD_DiI/preview)  
 May 2023  : Design Pattern Golang | [Creational](https://docs.google.com/document/d/1zbN4rNZjzMGFlLclaDgdDseTHWIeh97fUMfJYeTT13s/preview)  
+May 2023  : [pandas : all you need to know](https://docs.google.com/document/d/1IGAYclCO8LYL0k54Bv0EMSFhmHzB_b9-I6Dh44uMMFw/preview)  
 Oct 2022  : [Algorithmic question patterns](https://docs.google.com/document/d/13YLaOuusgqd1FmCo90AFyPB0VHMh-jnZb3T34l-HSb8/preview)  
 Oct 2022  : [Face-off with new codebase](https://docs.google.com/document/d/1ju8tz4JlxAHpLf-IlRVaFhxtoXiJbsFsO2jMVQUnjVA/preview)  
 Sep 2022  : [Anomaly detection using z-score & SQL](https://docs.google.com/document/d/1xQN3z0BRzSX507jl7w8pWXP9wBd4U3DZct7i3aIKwqI/preview)  
