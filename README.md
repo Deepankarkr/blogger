@@ -33,6 +33,9 @@ Statistics
 --------
 
 * * *
+Sep 2023  : [ML Checklist & CRISP DM](https://docs.google.com/document/d/1osRBlUcKKhSBnAdgV_sVKNtH0ImJbTIB5YIg-R38sQw/preview)  
+
+* * *
 
 Other Stuff
 --------
