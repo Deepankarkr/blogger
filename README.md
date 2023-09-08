@@ -9,6 +9,8 @@ Technical
 --------
 
 * * *
+
+Sep 2023 : [Snowflake Query Optimizer](https://docs.google.com/document/d/1gAJJtaw-q3SrfNDq8BwM7jm2eGud5VUz4I23MffxdWw/view)  
 Sep 2023 : [Designing Data Intensive Appl](https://drive.google.com/file/d/1Qxt9tWqNhgKF5UZ_Eicjx0awIXn_jMMC/view)  
 July 2023 : [SQLAlchemy-Reusable code](https://docs.google.com/document/d/14DBOGu1LskwPZclcMMC6XyAPfFdUCNn_YpWWw42yNbs/preview)  
 July 2023 : [Oracle to Snowflake migration](https://docs.google.com/document/d/1CrlBseoeRCluogBBRwCAyiAYxjPhGlb4Bq7n32eJzYU/preview)  
