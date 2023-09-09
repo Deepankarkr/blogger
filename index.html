@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Blog</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+</head>
+<body>
+    <div id="markdown-content"></div>
+
+    <script>
+        // Function to fetch and render Markdown content
+        async function fetchAndRenderMarkdown() {
+            const response = await fetch('blog.md'); // Replace with the path to your Markdown file
+            const markdownText = await response.text();
+
+            // Create a new Showdown converter
+            const converter = new showdown.Converter();
+            const htmlContent = converter.makeHtml(markdownText);
+
+            // Render the HTML content
+            document.getElementById('markdown-content').innerHTML = htmlContent;
+        }
+
+        // Call the function to fetch and render the Markdown content
+        fetchAndRenderMarkdown();
+    </script>
+</body>
+</html>
