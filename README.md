@@ -45,12 +45,12 @@ Other Stuff
 
 * * *
 
-Sep 2022  : [📹Chakras Explained](https://vimeo.com/866201220) | [📹 Understanding Learning](https://vimeo.com/866203029)  
+Sep 2022  : [Chakras Explained](https://vimeo.com/866201220) | [ Understanding Learning](https://vimeo.com/866203029)  
 May 2022  : [Algorithms to Live By : summary](https://docs.google.com/document/d/1yVOc5cdBV-rs71KkBamLWH-CkyLj6BKap3XdevkvcGM/preview)  
 Apr 2022  : [Deschooling Society](https://docs.google.com/document/d/188j5cXWzHEonPgRfl-kBtLsMbbKYlpF05jraDlOkKrQ/preview)  
 Apr 2022  : [Future of work from home](https://docs.google.com/document/d/1JXmOCrmh8tJ1hFLLj7PXthNAe7fBHwb7pVXD3jJaXck/preview)  
 Oct 2022  : [How to be a better coding youtuber](https://docs.google.com/presentation/d/1Ix9CWNjum-qD0DMN5CZNrW4e3BlVEPSvwpIoltVz_1o/preview)   
-Sep 2022  : [📹My Youtube playlist for you](https://youtube.com/playlist?list=PLoMmzSAOV974D36RWxfvAHQuPURGXlG2n)  
+Sep 2022  : [My Youtube playlist for you](https://youtube.com/playlist?list=PLoMmzSAOV974D36RWxfvAHQuPURGXlG2n)  
 
 
 * * *
